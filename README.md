@@ -1,6 +1,6 @@
 # hacktribe-content
 
-__Archived: Moved permanently to https://github.com/bangcorrupt/hacktribe/tree/master/content.__
+__Archived: Moved permanently to https://github.com/bangcorrupt/hacktribe/tree/main/content.__
 
 <br/>
 
